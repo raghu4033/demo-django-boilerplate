@@ -11,7 +11,7 @@ $ cd demo-django-boilerplate
 Create a virtual environment to install dependencies in and activate it:
 
 ```sh
-$ virtualenv2 --no-site-packages env
+$  python -m venv env
 $ source env/bin/activate
 ```
 
